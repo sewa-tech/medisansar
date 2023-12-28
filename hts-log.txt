@@ -1,12 +1,24 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 Dec 2023 20:41:52 at https://eventlytemplate.webflow.io/ +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*.otf* +*.ttf* +*.svg*
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Wriiten By SewaTech.com.np -->" -%l "en, *" https://eventlytemplate.webflow.io/ -O1 "D:\framer\manoj ji" +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*.otf* +*.ttf* +*.svg* )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-20:44:07	Error: 	"Not Found" (404) at link https://eventlytemplate.webflow.io/post/5-great-marketing-trends-to-follow-in-2020 (from https://eventlytemplate.webflow.io/about-us)
-
-HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 22 seconds : 220 links scanned, 217 files written (14084960 bytes overall) [10587766 bytes received at 74561 bytes/sec], 4694843 bytes transferred using HTTP compression in 104 files, ratio 22%, 22.0 requests per connection
-(1 errors, 0 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 Dec 2023 20:41:52 at https://eventlytemplate.sewatech.io/ +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*.otf* +*.ttf* +*.svg*
+sewatech
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Wriiten By SewaTech.com.np -->" -%l "en, *" https://eventlytemplate.webflow.io/ -O1 "D:\framer\manoj ji" +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*.otf* +*.ttf* +*.svg* )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensisewatechformation,sewatech
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+20:44:07	Error: 	"Not Found" (404) at link https://eventlytemplate.webflow.io/post/5-great-marketing-trends-to-follow-in-2020 (from https://eventlytemplate.webflow.io/about-us)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 22 seconds : 220 links scanned, 217 files written (14084960 bytes overall) [10587766 bytes received at 74561 bytes/sec], 4694843 bytes transferred using HTTP compression in 104 files, ratio 22%, 22.0 requests per connection
+
+(1 errors, 0 warnings, 0 messages)
+
